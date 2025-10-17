@@ -1,4 +1,4 @@
-# Your Intensive Co-learning Name
+# Alejandro Rosero
 
 ## Introduction
 
@@ -14,20 +14,20 @@ Target Audience placeholder
 
 ## Registration Period
 
-- Registration Start Date: 
-- Registration End Date: 
+- Registration Start Date: 2025-10-05
+- Registration End Date: 2025-10-14
 
 ## Study Duration
 
-- Study Start Date: 
-- Study End Date: 
+- Study Start Date: 2025-10-15
+- Study End Date: 2025-10-28
 
 ## Initiator
 
-- Name: 
-- GitHub ID: 
-- Telegram: 
-- Email: 
+- Name: Alejandro Rosero
+- GitHub ID: 0xalejolr420-boop
+- Telegram: alejandrolr420
+- Email: 0xalejolr420@gmail.com
 
 ## Organizations
 
